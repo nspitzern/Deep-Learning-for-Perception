@@ -1,0 +1,8 @@
+epochs: 20
+l2 lmbda: 100
+l1 lambda: 100
+Optim: Adam
+LR: 1e-4
+LR decay: 1e-5
+VGG: No
+Color Space: YCbCr
