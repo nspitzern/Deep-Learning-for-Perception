@@ -6,4 +6,4 @@ This Repository includes all excercies and my soltions for the `Deep Learning fo
 2. Ex2 - CNN Classifier
 3. Ex3 - Object Detection and Transfer-Learning
 4. Ex4 - Deep Style-Transfer and GradCam
-5. Semi-Supervised Learning (SimCLR) and GAN
+5. Ex5 - Semi-Supervised Learning (SimCLR) and GAN
